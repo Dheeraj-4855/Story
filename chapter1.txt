@@ -1,0 +1,1 @@
+this is text entered during the preparation of the git learning
